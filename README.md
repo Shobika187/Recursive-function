@@ -52,7 +52,8 @@ namespace hello
 ```
 
 ## Output:
-![s img](https://github.com/Shobika187/Recursive-function/assets/94508142/00082b58-21de-4939-8dae-e6c3ce73f4cb)
+![s img (2)](https://github.com/Shobika187/Recursive-function/assets/94508142/685b5a20-7775-4f60-a945-ab211fad1fcd)
+
 
 ## Result:
 Thus a C# program to reverse a number using recursive function is executed successfully.
